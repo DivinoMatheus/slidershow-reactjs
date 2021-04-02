@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Slidershow
+Slidershow normally used in e-commerce applications.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo
+https://condescending-swirles-c9ff90.netlify.app/
 
 ## Libs used in this project
 ReactJS
