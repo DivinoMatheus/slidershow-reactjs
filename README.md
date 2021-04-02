@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ReactJS
 
 **packages:**
-react-icons
+react-icons\
 styled-components
 
 ## Available Scripts
