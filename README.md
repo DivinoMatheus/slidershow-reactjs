@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Libs used in this project
 ReactJS
 
-**packages:**
+**packages:**\
 react-icons\
 styled-components
 
